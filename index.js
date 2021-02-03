@@ -26,3 +26,5 @@ function sayHiToGrandma(string) {
     return "I love you, too.";
   }
 }
+
+console.log(sayHiToGrandma("HELLO!"));
